@@ -1,0 +1,10 @@
+pandas
+numpy
+sklearn
+keras
+tensorflow
+matplotlib
+plotly
+statsmodels
+itertools
+warnings
